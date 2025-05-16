@@ -39,7 +39,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://NIKITH-143.github.io/Calendar",
+  "homepage": "https://nikith-143.github.io/Calendar",
   "scripts": {
   "start": "react-scripts start",
   "build": "react-scripts build",
